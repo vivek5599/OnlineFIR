@@ -8,7 +8,15 @@ To run this website  click on this link below <br>
 
 #  Online FIR System
 
-One of the most popular college resturant in the capital, CU resturant enjoys a large hall that can accommodate more than 150 students at a given time. Famous for its a huge egg-shaped snack in a bread jacket with lots of stuffing. Apart from the famed chops, the menu includes chicken pakora, chicken stew or chicken curry, roti, dalpuri, alu dum, ghooghni, noodles, burgers, biscuits and cakes from Monginis, and of course tea, coffee , aerated drinks, samosas and spring rolls at a reasonably low price, the canteen serves as a perfect adda for enthusiasts. CU resturant , located in mohali chnadigarh, has an exceptionally huge campus, stretching across an area of more than 200 acres. But it is the only resturant that is considered the favourite hangout zone by students. A wide variety of food is in the offering at the lowest rates and keeps student pretty pleased.
+The Online FIR System is an application that integrates a complete case management system and
+this design will help to control all the activities of the police station. It can be used to report
+crime and manage all activities at the police station using computers following all the details of
+complaints, wanted criminals, police station, etc. Most tasks are performed in person, but by
+inserting all the functions inside the computer by computer. at the police station applications can
+be handled quickly and effectively. The modules involved in this project are Login User and
+Administrator, Complaints Registration, View Complaints, Crime Register Management, Case
+History Management, Manage the list of most wanted criminals, the latest crime news in the city,
+Safety tips for individuals, especially women and traffickers
 
 # Admin Login page:
 
