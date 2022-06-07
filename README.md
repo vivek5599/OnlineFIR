@@ -6,7 +6,7 @@ To run this website  click on this link below <br>
  https://zealous-sky-092466210.1.azurestaticapps.net/
 </h1>
 
-#  CU-RESTUARANT 
+#  Online FIR System
 
 One of the most popular college resturant in the capital, CU resturant enjoys a large hall that can accommodate more than 150 students at a given time. Famous for its a huge egg-shaped snack in a bread jacket with lots of stuffing. Apart from the famed chops, the menu includes chicken pakora, chicken stew or chicken curry, roti, dalpuri, alu dum, ghooghni, noodles, burgers, biscuits and cakes from Monginis, and of course tea, coffee , aerated drinks, samosas and spring rolls at a reasonably low price, the canteen serves as a perfect adda for enthusiasts. CU resturant , located in mohali chnadigarh, has an exceptionally huge campus, stretching across an area of more than 200 acres. But it is the only resturant that is considered the favourite hangout zone by students. A wide variety of food is in the offering at the lowest rates and keeps student pretty pleased.
 
